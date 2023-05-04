@@ -7,4 +7,6 @@ python==3.8.16  tensorflow-gpt==2.5.0  tensorflow-addons==0.20.0  tensorflow-dat
 ```
 
 You can easily train just by 
+```
 train.py
+```
